@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon" : -74.006,
+        "lat" : 40.7143
+    },
+    "weather" : [
+        {
+            "id" : 802,
+            "main" : "Clouds",
+            "description" : "scattered clouds",
+            "icon" : "03d"
+        }
+    ],
+    "base" : "stations",
+    "main" : {
+        "temp" : 35.73,
+        "feels_like" : 20.16,
+        "temp_min" : 18.86,
+        "temp_max" : 50.38,
+        "pressure" : 1019,
+        "humidity" : 50
+    },
+    "visibility" : 10000,
+    "wind" : {
+        "speed" : 6.17,
+        "deg" : 310,
+    },
+    "clouds" : {
+        "all" : 40
+    },
+    "dt" : 1664392814,
+    "sys" : {
+        "type" : 2,
+        "id" : 2039034,
+        "country" : "US",
+        "sunrise" : 1664362163,
+        "sunset" : 1664405031
+    },
+    "timezone" : -14400,
+    "id" : 5128581,
+    "name" : "Cochabamba",
+    "cod" : 200
+}
